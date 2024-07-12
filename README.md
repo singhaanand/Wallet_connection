@@ -34,5 +34,4 @@ Follow these steps to set up and run the solution:
 
 Contributors' names and contact info
 
-Ankit Kunwar
-[@ankit04k](https://twitter.com/Ankit04K)
+Aanand
