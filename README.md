@@ -7,7 +7,7 @@ Function Frontend
 
 This solidity code is the solution to the assessment of the "ETH PROOF: Intermediate ETH + AVAX Course" by Metacrafters. The requirements of the assessment are:
 
-    For this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
+    For this project, create a simple contract with 4 functions. Then show the values of those functions in frontend of the application.
 
 
 ## Solution Overview
@@ -18,6 +18,12 @@ The solution consists of two main components:
 2. **JavaScript Code**: The `index.js` file demonstrates how to capture and handle the emitted events. It connects to the Ethereum network, attaches the deployed contract, and sets up event listeners for the three events. When an event is triggered, relevant information is logged to the console.
 
 ## Getting Started
+I have the following installed on my local machine:
+
+Node.js
+npm (Node Package Manager)
+Hardhat
+A local Ethereum network tool 
 
 ### Executing Program
 
@@ -32,7 +38,9 @@ Follow these steps to set up and run the solution:
 
 ## Authors
 
-Contributors' names and contact info
+Contributors' names 
 
-Ankit Kunwar
-[@ankit04k](https://twitter.com/Ankit04K)
+Aanand
+## Acknowledgments
+Thanks to Metacrafters for providing the assessment guidelines.
+Shoutout to the Ethereum and Solidity communities for their extensive documentation and support.
