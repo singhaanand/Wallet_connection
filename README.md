@@ -20,9 +20,9 @@ The solution consists of two main components:
 ## Getting Started
 I have the following installed on my local machine:
 
-Node.js
-npm (Node Package Manager)
-Hardhat
+Node.js,
+npm (Node Package Manager),
+Hardhat,
 A local Ethereum network tool 
 
 ### Executing Program
